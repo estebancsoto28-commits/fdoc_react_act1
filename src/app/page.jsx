@@ -1,13 +1,13 @@
 "use client"
 //Importamos los archivos de otras carpetas para poderlos hacer return en las funciones
 import React from 'react'
-import SaludoBasico from './Components/SaludoBasico'
-import SaludoDesestructurado from './Components/SaludoDesestructurado'
-import PerfilConObjeto from './Components/PerfilConObjeto'
-import BotonConCallback from './Components/BotonConCallback'
-import ContenedorRenderProp from './Components/ContenedorRenderProp'
-import CajaChildren from './Components/CajaChildren'
-import Saludo from './Components/SaludoConDefaultProps'
+import SaludoBasico from './components/SaludoBasico'
+import SaludoDesestructurado from './components/SaludoDesestructurado'
+import PerfilConObjeto from './components/PerfilConObjeto'
+import BotonConCallback from './components/BotonConCallback'
+import ContenedorRenderProp from './components/ContenedorRenderProp'
+import CajaChildren from './components/CajaChildren'
+import Saludo from './components/SaludoConDefaultProps'
 
 
 export default function page() {
